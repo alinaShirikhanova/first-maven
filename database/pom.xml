@@ -6,7 +6,7 @@
     <parent>
         <groupId>com.alina</groupId>
         <artifactId>first-maven</artifactId>
-        <version>1.0.0-SNAPCHOT</version>
+        <version>1.0.0-SNAPSHOT</version>
     </parent>
 <packaging>jar</packaging>
     <artifactId>database</artifactId>
